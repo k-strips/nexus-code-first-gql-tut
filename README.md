@@ -10,6 +10,6 @@ practising graphql using (Nexus) code first approach. Technologies being used in
 ### Steps to run the project
 
 - clone the repo
-- install dependencies using `code`yarn`code` if you prefer yarn(recommended) or `code`npm install`code` if you want to use npm.
-- run `code`yarn run generate`code` to generate your types
-- run `code`yarn run dev`code` to start the project
+- install dependencies using `yarn` if you prefer yarn(recommended) or `npm install` if you want to use npm.
+- run `yarn run generate` to generate your types
+- run `yarn run dev` to start the project
